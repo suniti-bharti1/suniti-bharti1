@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=✨+Suniti+Bharti+✨;👩‍💻+Full+Stack+Developer;💜+C+%26+C%2B%2B+Programmer;🤖+AI%2FML+Enthusiast;🚀+Tech+Explorer+%26+Problem+Solver" />
@@ -7,11 +7,8 @@
 
 </div>
 
----
-
 # 👩‍💻 About Me
 
-```yaml
 name: Suniti Bharti
 education: B.Tech Computer Science
 role: Full Stack Developer
@@ -31,9 +28,7 @@ currently_learning:
   - React.js
   - Advanced JavaScript
   - Data Structures & Algorithms
-````
 
----
 
 # ⚡ Tech Stack
 
