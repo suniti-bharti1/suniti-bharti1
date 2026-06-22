@@ -1,84 +1,146 @@
-<h1 align="center">✨ Hey, I'm Suniti Bharti ✨</h1>
+````md
+<div align="center">
 
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Tech Explorer 🚀</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=✨+Hey+There!+I'm+Suniti+Bharti+✨;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+Projects+That+Matter;🌟+Always+Learning+New+Technologies" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning+New+Things;Building+Projects+That+Matter+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Suniti%20Bharti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
-</p>
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate Full Stack Developer
-- 🤖 Exploring AI & Machine Learning
-- 🌱 Currently learning React & Advanced JavaScript
-- 🚀 Love building real-world projects
-- ⚡ Always curious about new technologies
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
+🎓 B.Tech CSE Student
 
-## 🚀 Tech Stack
+💻 Full Stack Developer
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,vscode,powerbi" />
-</p>
+🤖 AI & Machine Learning Enthusiast
 
----
+🌱 Currently Learning React.js & Advanced JavaScript
 
-## 📊 GitHub Stats
+🚀 Building Real-World Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suniti-bharti1&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-bharti1&layout=compact&theme=tokyonight"/>
-</p>
+⚡ Fun Fact: I turn coffee ☕ into code 💻
+
+<br clear="both">
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Tech Stack
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suniti-bharti1&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,mysql,mongodb,git,github,vscode,powerbi&perline=7"/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=6"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-<p align="center">
-<a href="https://linkedin.com">
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suniti-bharti1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-bharti1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suniti-bharti1&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suniti-bharti1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌟 Current Focus
+
+```yaml
+Learning:
+  - React.js
+  - Advanced JavaScript
+  - DSA
+
+Building:
+  - Full Stack Applications
+  - AI/ML Projects
+
+Goal:
+  - Software Engineer 🚀
+````
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/suniti-bharti1">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-## 👀 Profile Visitors
+# 👀 Profile Visitors
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=suniti-bharti1&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=suniti-bharti1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 💡 Quote
+# 💭 Dev Quote
+
+<div align="center">
 
 > "Success is not final, failure is not fatal: it is the courage to continue that counts."
+
+</div>
+
+---
+
+# 🚀 Thanks For Visiting
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+together!+🚀"/>
+
+</div>
+```
+
