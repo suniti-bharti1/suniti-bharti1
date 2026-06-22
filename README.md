@@ -1,35 +1,36 @@
-
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:C084FC,100:00BFFF&text=Suniti%20Bharti&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=✨+Suniti+Bharti+✨;👩‍💻+Full+Stack+Developer;💜+C+%26+C%2B%2B+Programmer;🤖+AI%2FML+Enthusiast;🚀+Tech+Explorer+%26+Problem+Solver" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=✨+Suniti+Bharti;👩‍💻+Full+Stack+Developer;💜+C+%26+C%2B%2B+Programmer;🤖+AI%2FML+Explorer;🚀+Building+Amazing+Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F00FF,50:C084FC,100:00BFFF&text=Welcome%20To%20My%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 
-</div>
-
-<br>
-
-<div align="center">
-<img width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
 ```yaml
-Name: Suniti Bharti
-Education: B.Tech CSE
-Role: Full Stack Developer
-Languages: C, C++, JavaScript, Python
-Interests:
-  - AI & Machine Learning
+name: Suniti Bharti
+education: B.Tech Computer Science
+role: Full Stack Developer
+languages:
+  - C
+  - C++
+  - JavaScript
+  - Python
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
   - Full Stack Development
   - Problem Solving
-Current Focus:
+
+currently_learning:
   - React.js
-  - DSA in C++
-  - Real World Projects
+  - Advanced JavaScript
+  - Data Structures & Algorithms
 ````
 
 ---
@@ -44,7 +45,7 @@ Current Focus:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -66,7 +67,7 @@ Current Focus:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -76,27 +77,27 @@ Current Focus:
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=7&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-✨ Master Full Stack Development
+✨ Strengthen C++ & DSA
 
-💜 Become Strong in DSA & C++
+🚀 Build Full Stack Applications
 
-🤖 Build AI/ML Projects
+🤖 Create AI/ML Projects
 
-🚀 Contribute to Open Source
+💜 Contribute to Open Source
 
-💼 Grow as a Software Engineer
+📚 Keep Learning Every Day
 
 ---
 
@@ -105,18 +106,18 @@ Current Focus:
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/suniti-bharti1">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <div align="center">
 
@@ -128,9 +129,9 @@ Current Focus:
 
 <div align="center">
 
-### 💜 Thanks for Visiting 💜
+### 💜 Thanks For Visiting 💜
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Keep+Learning+Keep+Growing+🌱;Let's+Build+Something+Amazing+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Keep+Learning+Keep+Growing+🌱;Let's+Build+Something+Amazing+🚀;Code.+Create.+Inspire.+✨" />
 
 </div>
 ```
