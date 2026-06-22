@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=✨+Hey+There!+I'm+Suniti+Bharti+✨;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+Projects+That+Matter;🌟+Always+Learning+New+Technologies" />
