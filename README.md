@@ -36,7 +36,7 @@
 🚀 Building impactful projects
 
 ☕ Coffee + Code + Curiosity
-```
+
 
 # Tech Stack
 
@@ -78,7 +78,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suniti-bharti1&theme=tokyo-night&hide_border=true"/>
 
 </p>
-```
+
 
 # Trophies
 
@@ -88,12 +88,12 @@ l
 <img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=7"/>
 
 </p>
-```
+
 
 # Snake
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-```
+
 
 # Footer
 
