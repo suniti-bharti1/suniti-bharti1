@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:C084FC,100:00BFFF&text=Suniti%20Bharti&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
