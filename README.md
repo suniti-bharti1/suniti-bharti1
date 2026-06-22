@@ -1,104 +1,109 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=35&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=✨+Hi%2C+I'm+Suniti+Bharti;👩‍💻+Full+Stack+Developer;🤖+AI%2FML+Enthusiast;💜+C+%26+C%2B%2B+Programmer;🚀+Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=38&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=✨+Hi,+I'm+Suniti+Bharti+✨;👩‍💻+Full+Stack+Developer;💜+C+%26+C%2B%2B+Programmer;🤖+AI%2FML+Enthusiast;🚀+Building+Technology+That+Matters" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,50:A855F7,100:06B6D4&text=Suniti%20Bharti&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:8A2BE2,50:C084FC,100:00BFFF&text=Suniti%20Bharti&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+
+
+# Coding Girl GIF
+
 
 <div align="center">
 
-<img width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
----
 
-# 👩‍💻 About Me
+# About Me
+
+
+## 👩‍💻 About Me
 
 💜 B.Tech Computer Science Student
 
 💻 Full Stack Developer
 
-🤖 AI & Machine Learning Enthusiast
-
-🌱 Currently Learning React & Advanced JavaScript
-
-🚀 Building Real-World Projects
-
 ⚡ Strong in C & C++
 
-☕ Coffee + Code = Happiness
+🤖 AI & Machine Learning Enthusiast
 
----
+🌱 Learning React, JavaScript & DSA
 
-# 💎 Tech Stack
+🚀 Building impactful projects
 
-<p align="center">
+☕ Coffee + Code + Curiosity
+```
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,python,mysql,git,github,vscode,powerbi"/>
+# Tech Stack
 
-</p>
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suniti-bharti1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-bharti1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,python,mysql,git,github,vscode,powerbi&perline=6"/>
 
 </p>
 
----
 
-# 🔥 GitHub Streak
+# Stats
+
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=suniti-bharti1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-bharti1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+# Streak
+
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=suniti-bharti1&theme=tokyonight&hide_border=true"/>
 
 </p>
+```
 
----
+# Activity Graph
 
-# 🌸 What I'm Working On
-
-🚀 Full Stack Development
-
-🤖 AI/ML Projects
-
-📚 DSA in C++
-
-💼 Software Engineering Journey
-
----
-
-# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/suniti-bharti1">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suniti-bharti1&theme=tokyo-night&hide_border=true"/>
 
 </p>
+```
 
----
+# Trophies
+
+l
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=7"/>
+
+</p>
+```
+
+# Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+```
+
+# Footer
+
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing+Together+💜;Keep+Learning+Keep+Growing+🌱" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+💜;Let's+build+something+amazing+together+🚀"/>
 
 </div>
+
+
 
 
