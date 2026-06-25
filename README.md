@@ -1,57 +1,101 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:C084FC,100:00BFFF&text=Suniti%20Bharti&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:8A2BE2,50:C084FC,100:00BFFF&text=Welcome%20to%20My%20GitHub!&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=✨+Suniti+Bharti;👩‍💻+Full+Stack+Developer;💜+C+%26+C%2B%2B+Programmer;🤖+AI%2FML+Explorer;🚀+Building+Amazing+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Suniti+Bharti;💻+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Explorer;🚀+Building+Amazing+Projects;🌱+Always+Learning+New+Things" />
 
 </div>
 
-<br>
-
-<div align="center">
-<img width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-</div>
-
-# 💫 About Me
-
-
-Name: Suniti Bharti
-Education: B.Tech CSE
-Role: Full Stack Developer
-Languages: C, C++, JavaScript, Python
-Interests:
-  - AI & Machine Learning
-  - Full Stack Development
-  - Problem Solving
-Current Focus:
-  - React.js
-  - DSA in C++
-  - Real World Projects
-
-
-# ⚡ Tech Stack
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,mysql,git,github,vscode,powerbi&perline=6"/>
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
+# 💜 About Me
 
-# 📊 GitHub Analytics
+```yaml
+👩 Name: Suniti Bharti
+🎓 Education: B.Tech Computer Science Engineering
+
+💻 Role:
+   • Full Stack Developer
+
+🌱 Currently Learning:
+   • React.js
+   • Node.js
+   • DSA in C++
+   • AI & Machine Learning
+
+🚀 Interests:
+   • Web Development
+   • Artificial Intelligence
+   • Open Source
+   • Problem Solving
+
+🎯 Goal:
+   Become a Software Engineer building impactful products.
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/suniti-bharti1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suniti-bharti1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-bharti1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,powerbi,figma,linux&perline=6"/>
 
 </div>
 
+---
 
+# 🚀 Currently Working On
 
-# 🔥 Contribution Streak
+✨ Full Stack Projects
+
+🤖 AI & ML Applications
+
+📚 Data Structures & Algorithms
+
+🌐 React + Node.js Projects
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suniti-bharti1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suniti-bharti1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -59,73 +103,86 @@ Current Focus:
 
 </div>
 
+---
 
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suniti-bharti1&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
-
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&row=1&column=7&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suniti-bharti1&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
-
-
-
-# 🎯 2026 Goals
-
-✨ Master Full Stack Development
-
-💜 Become Strong in DSA & C++
-
-🤖 Build AI/ML Projects
-
-🚀 Contribute to Open Source
-
-💼 Grow as a Software Engineer
 
 ---
 
-# 🌐 Connect With Me
+# 🌱 Currently Learning
+
+✅ React.js
+
+✅ Node.js
+
+✅ Express.js
+
+✅ MongoDB
+
+✅ Artificial Intelligence
+
+✅ Machine Learning
+
+✅ Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+🚀 Become an Expert Full Stack Developer
+
+💜 Master DSA using C++
+
+🤖 Build AI Powered Applications
+
+🌍 Contribute to Open Source
+
+💼 Crack a Top Software Engineering Role
+
+---
+
+# ✨ Fun Fact
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+# 💬 Random Dev Quote
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/suniti-bharti1">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
 
 # 👀 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=suniti-bharti1&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=suniti-bharti1&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
-
+---
 
 <div align="center">
 
-### 💜 Thanks for Visiting 💜
+## 💜 Thanks for Visiting My Profile 💜
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Keep+Learning+Keep+Growing+🌱;Let's+Build+Something+Amazing+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Keep+Learning+🌱;Keep+Building+🚀;Never+Stop+Growing+💜;See+You+Again!+✨"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,50:C084FC,100:00BFFF"/>
+
 
 
 
