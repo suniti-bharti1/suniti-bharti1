@@ -69,8 +69,8 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/suniti-bharti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/suniti-bharti1">
@@ -413,7 +413,7 @@ When I'm away from the keyboard, you'll usually find me:
 
 📚 Learning emerging technologies
 
-☕ Enjoying a strong cup of coffee
+☕Crafting DIY projects & Creative Art
 
 🌿 Turning ideas into meaningful products
 ```
